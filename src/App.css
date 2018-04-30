@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  position: relative;
+}
+
+.wraper {
+  /* position: absolute; */
+  width: 100%;
+  left: 0;
+  display: inline-flex;
+}
+
+.child{
+  list-style: none;
+}
