@@ -6,7 +6,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <div>
+        <div className="test">
           <ul className="wraper">
            <li className="child">1</li>
            <li className="child">2</li>
